@@ -1,4 +1,4 @@
-# letsgrowmore_intership task 1
+# letsgrowmore_internship task 1
 task- image to pencil sketch with python: 
 we need to read the image in rgb fromat and then convert it to a grayscale image.
 this will turn an image into a classic black and white photo.
